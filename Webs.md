@@ -1,1 +1,9 @@
-
+| **Proveïdor**       | **Espai d'emmagatzematge** | **Ample de banda** | **Dominis i Subdominis**                             | **Certificat SSL** | **Publicitat** | **Altres Característiques**                                   |
+|---------------------|---------------------------|--------------------|-----------------------------------------------------|--------------------|----------------|--------------------------------------------------------------|
+| **HubSpot**         | 100 GB                    | Il·limitat          | Subdomini (domini personalitzat disponible)          | Sí                 | No             | Integració de CRM, eines de màrqueting i analítiques avançades |
+| **Hostinger**       | 1 GB                       | 100 GB              | Subdomini, 1 domini personalitzat (extra de pagament) | Sí                 | No             | Instal·lació de WordPress, suport per a PHP, MySQL, i més     |
+| **AwardSpace**      | 1 GB                       | 5 GB                | Subdomini (domini personalitzat disponible)          | Sí                 | No             | Suport per a PHP, MySQL, instal·lacions de WordPress i Joomla |
+| **LucusHost**       | 1.5 GB                     | 10 GB               | Subdomini (domini personalitzat disponible)          | Sí                 | No             | Instal·lacions de CMS, suport per a PHP, MySQL                |
+| **Free Hosting**    | 1 GB                       | 5 GB                | Subdomini (domini personalitzat disponible)          | Sí                 | Sí             | Suport per a CMS, PHP, instal·lacions automàtiques            |
+| **InfinityFree**    | Il·limitat                 | Il·limitat          | Subdomini (domini personalitzat disponible)          | Sí                 | No             | Suport per a WordPress, PHP, MySQL, instal·lacions automàtiques |
+| **000Webhost**      | 1 GB                       | 10 GB               | Subdomini (domini personalitzat disponible)          | Sí                 | Sí             | Suport per a CMS, PHP, MySQL, WordPress                       |
